@@ -1,5 +1,5 @@
 # aging_omics_datasets
-This repo is for accumulating information of different aging related omics datasets appropriate for meta-analysis and aging clocks train. This repo also contains reprogramming related datasets since it is a part of our rejuvenation studies. Moust of this datasets are for **mouse** and **human**
+This repo is for accumulating information of different aging related omics datasets appropriate for meta-analysis and aging clocks train. This repo also contains reprogramming related datasets since it is a part of our rejuvenation studies. Since omics datasets are typically huge in size, we store link, ID but not files typically. Most of these datasets are for **mouse** and **human**. 
 
 ## Without category
 * [ComputAge meta table](https://docs.google.com/spreadsheets/d/1U_4lqknpwR2K2RVDHsfEFpItcFzlKsR_qfsmGfdT7yo/edit?usp=sharing) - our manually curated table with omics datasets. Includes single-cell transcriptomics, single-cell methylation aging related data as well as single-cell transcriptomics of cell reprogramming (OSKM, OSK, etc.). This table is updated constantly.
