@@ -24,4 +24,4 @@ This repo is for accumulating information of different aging related omics datas
 
 ## Survival datasets
 
-[ALEC](https://www.lifespan.io/animal-life-expectancy-comparisons/) project accumulates mouse survival data and studies the quality of control cohort data.
+[ALEC](https://www.longevite-sante.org/ALEC/) project accumulates mouse survival data and studies the quality of control cohort data.
