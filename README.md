@@ -21,3 +21,7 @@ This repo is for accumulating information of different aging related omics datas
 ## Complete Blood Count data
 
 [NHANES]() dataset from the official [web-site](https://www.cdc.gov/nchs/nhanes/) but file stored in this repo.
+
+## Survival datasets
+
+[ALEC](https://www.lifespan.io/animal-life-expectancy-comparisons/) project accumulates mouse survival data and studies the quality of control cohort data.
